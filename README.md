@@ -6,7 +6,7 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRodriguess&layout=compact)](https://github.com/PriscilarRodriguess/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRodriguess&layout=compact&theme=radical)](https://github.com/PriscilarRodriguess/github-readme-stats)
 <div>
 
 <h3>Tecnologias que Estudo:</h3>
