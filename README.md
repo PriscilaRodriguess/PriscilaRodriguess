@@ -25,6 +25,3 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-rodrigues-abb967221/)
 
-<div>
-<img align="rigth" alt="Priscila-Gif" src="https://cdn.discordapp.com/attachments/870352694693466142/939959122172968980/images_1.gif"/>
-</div>
