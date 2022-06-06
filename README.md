@@ -2,7 +2,7 @@
 
 <div>
 
-<img rigth="100cm" align="left" src= "https://github-readme-stats.vercel.app/api?username=PriscilaRodriguess&theme=radical&show_icons=true"/>
+<img rigth="80cm" align="left" src= "https://github-readme-stats.vercel.app/api?username=PriscilaRodriguess&theme=radical&show_icons=true"/>
   
 </div>
 
