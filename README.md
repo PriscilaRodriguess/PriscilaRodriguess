@@ -3,7 +3,7 @@
 
 <img rigth="60cm" align="left" src= "https://github-readme-stats.vercel.app/api?username=PriscilaRodriguess&theme=radical&show_icons=true"/>
 
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRodriguess&layout=compact&theme=radical">
+<img left ="40cm" aling="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRodriguess&layout=compact&theme=radical"/>
 
 <div>
 
