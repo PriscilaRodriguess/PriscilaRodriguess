@@ -1,7 +1,7 @@
 # </ Olá Mundo!>
 
 
-<img rigth="60cm" align="left" src= "https://github-readme-stats.vercel.app/api?username=PriscilaRodriguess&theme=radical&show_icons=true"/>
+<img rigth="40cm" align="left" src= "https://github-readme-stats.vercel.app/api?username=PriscilaRodriguess&theme=radical&show_icons=true"/>
 
 <img left ="40cm" aling="rigth" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRodriguess&layout=compact&theme=radical"/>
 
