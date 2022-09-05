@@ -1,6 +1,6 @@
 # </ Olá Mundo!>
 
-<div>
+<div style="display: inline_block"><br>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=PriscilaRodriguess&theme=radical&show_icons=true"/>
 <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaRodriguess&layout=compact&theme=radical"/>
 </div>
