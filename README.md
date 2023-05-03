@@ -2,7 +2,7 @@
 
 👋🏻 Olá, eu sou Priscila Rodrigues!<br>
 👩🏻‍💻 Cursando Análise e desenvolvimento de sistemas.<br>
-🔎 Procurando a primeira vaga em desenvolvimento web.<br>
+🔎 Em busca da primeira vaga em desenvolvimento web.<br>
 🛠️ Estudando HTML, CSS e JAVASCRIPT.<br>
 🔭 Foco em ser desenvolvedora Front-end.
 
@@ -14,7 +14,7 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)  
