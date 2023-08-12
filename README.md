@@ -30,5 +30,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priscilarodriguess&layout=compact&langs_count=7&theme=dracula)
 ---
 [![](https://visitcount.itsvg.in/api?id=PriscilaRodriguess&icon=7&color=10)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
